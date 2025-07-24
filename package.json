@@ -2,6 +2,7 @@
   "name": "tp-malan-school-website",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://prajapatidivikumar123.github.io/tp-malan-school-website",
   "dependencies": {
     "@types/node": "^16.18.0",
     "@types/react": "^18.2.0",
@@ -16,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
