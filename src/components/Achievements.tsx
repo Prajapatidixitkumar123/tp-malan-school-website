@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Trophy, Medal, Star, Award, Calendar, Users, Target, TrendingUp } from 'lucide-react';
+import { Trophy, Medal, Star, Award, Users, Target, TrendingUp } from 'lucide-react';
 
 const Achievements: React.FC = () => {
   const [activeCategory, setActiveCategory] = useState('academic');

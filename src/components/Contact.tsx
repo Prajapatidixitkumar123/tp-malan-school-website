@@ -6,9 +6,7 @@ import {
   Mail, 
   Clock, 
   Send, 
-  User, 
-  MessageSquare,
-  Globe,
+
   Facebook,
   Twitter,
   Instagram,

@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/tp-malan-school-website/static/css/main.77257085.css",
+    "main.js": "/tp-malan-school-website/static/js/main.c5e91c92.js",
+    "index.html": "/tp-malan-school-website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.77257085.css",
+    "static/js/main.c5e91c92.js"
+  ]
+}

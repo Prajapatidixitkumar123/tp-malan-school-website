@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { BookOpen, Users, Clock, Award, ChevronRight, GraduationCap, Calculator, Globe, Beaker, Palette, Music } from 'lucide-react';
+import { BookOpen, Users, ChevronRight, GraduationCap, Calculator, Globe, Beaker, Palette, Music } from 'lucide-react';
 
 const Academics: React.FC = () => {
   const [activeTab, setActiveTab] = useState('primary');

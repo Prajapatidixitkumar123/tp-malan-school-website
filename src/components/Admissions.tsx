@@ -2,17 +2,10 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
   FileText, 
-  Calendar, 
-  DollarSign, 
   CheckCircle, 
   Download, 
   Upload,
-  User,
-  Mail,
-  Phone,
-  MapPin,
   GraduationCap,
-  Users,
   AlertCircle
 } from 'lucide-react';
 
